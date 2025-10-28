@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.button-one, .button-two {
+    font-size: 29px;
+    font-family: sans-serif;
+    color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+
+.button-one {
+    background-color: brown;
+}
+
+.button-two {
+    background-color: blueviolet;
+}
+
+
